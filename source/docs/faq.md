@@ -1,8 +1,8 @@
 # FAQ
 
 ### Q. Is this a new service?
-(
-No. AWS Connected Device Framework is not a new service, but a suite of production grade micro-services (referred to as modules))that a customer can own and deploy to their accounts to help build common device management patterns using AWS services.
+
+No. AWS Connected Device Framework is not a new service, but a suite of production grade micro-services (referred to as modules) that a customer can own and deploy to their accounts to help build common device management patterns using AWS services.
 
 ### Q. Which core components are available in the AWS Connected Device Framework?
 
