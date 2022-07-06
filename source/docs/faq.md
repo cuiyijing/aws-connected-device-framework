@@ -71,7 +71,7 @@ The Provisioning component included in the framework does not impose any specifi
 
 ### Q. How scalable and fault tolerant is AWS Connected Device Framework?
 
-The framework is built on native AWS services. The provided references applications are built on the serverless paradigm making it highly scalable and fault tolerant. You can customize this application to create your own highly scalable application. If you make any changes to underlying modules, please follow the AWS best practices to ensure high availability and scalability.
+The framework is built on native AWS services. The provided reference applications are built on the serverless paradigm making it highly scalable and fault tolerant. You can customize this application to create your own highly scalable application. If you make any changes to underlying modules, please follow the AWS best practices to ensure high availability and scalability.
 
 
 
